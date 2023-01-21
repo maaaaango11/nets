@@ -1,0 +1,1678 @@
+2023-01-19 13:24:28.407 [main] INFO  Main.validateArgs(Main.java:18) - Incorrect number of args. Please, specify port number.
+2023-01-19 13:25:41.880 [main] INFO  Main.validateArgs(Main.java:18) - Incorrect number of args. Please, specify port number.
+2023-01-19 13:27:07.240 [main] INFO  Main.validateArgs(Main.java:18) - Incorrect number of args. Please, specify port number.
+2023-01-19 13:27:18.531 [main] INFO  Main.validateArgs(Main.java:18) - Incorrect number of args. Please, specify port number.
+2023-01-19 13:37:40.188 [main] INFO  Main.validateArgs(Main.java:18) - Incorrect number of args. Please, specify port number.
+2023-01-19 13:38:04.093 [main] INFO  Main.validateArgs(Main.java:18) - Incorrect number of args. Please, specify port number.
+2023-01-19 13:38:33.860 [main] ERROR Main.validateArgs(Main.java:29) - Unable to parse port '--args=123'.
+java.lang.NumberFormatException: For input string: "--args=123"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:660)
+	at java.base/java.lang.Integer.parseInt(Integer.java:778)
+	at Main.validateArgs(Main.java:22)
+	at Main.main(Main.java:9)
+2023-01-19 13:50:43.485 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:43.720 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:43.777 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:44.682 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:44.938 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:46.467 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:46.468 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:46.544 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:46.722 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:46.722 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:46.802 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:47.472 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:47.721 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:49.463 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:49.464 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:49.680 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:49.722 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:49.723 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:49.929 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:51.034 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:51.290 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:51.336 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:51.466 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:51.722 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:52.361 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:52.465 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:52.618 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:52.715 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:56.360 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:56.617 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:57.465 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:57.674 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:57.721 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:57.929 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:58.464 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:58.714 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:59.161 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:59.410 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:50:59.953 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:00.208 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:00.466 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:00.714 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:01.210 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:01.466 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:01.520 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:02.537 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:02.792 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:04.465 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:04.714 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:05.260 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:05.505 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:05.567 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:05.820 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:06.465 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:06.723 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:12.265 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:12.515 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:13.185 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:13.440 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:13.975 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:14.232 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:15.090 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:15.339 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:15.391 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:16.409 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:16.666 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:17.465 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:17.713 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:18.465 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:18.714 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:23.465 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 13:51:23.719 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:38.484 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:38.491 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:38.492 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:38.493 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:38.497 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:38.498 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:38.722 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:38.723 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:38.723 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:38.729 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:38.816 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:39.066 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:39.465 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:39.722 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:41.466 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:41.715 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:42.465 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:42.466 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:42.713 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:42.721 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:43.465 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:43.480 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:43.720 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 14:22:43.736 [main] ERROR handlers.Handler.isExpectedByte(Handler.java:29) - Incompatible version of SOCKS.. Expected 0x05, got 0x43
+2023-01-19 16:28:23.737 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:28:24.057 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:28:24.245 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:28:24.247 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:28:24.251 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:28:24.698 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:28:24.702 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:28:24.914 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:28:25.285 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:28:25.519 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:28:29.154 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:28:35.579 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:28:43.720 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:28:47.285 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:14.729 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:15.327 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:15.331 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:15.332 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:15.333 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:15.333 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:15.334 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:15.334 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:15.335 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:15.789 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:15.801 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:15.801 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:15.803 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:25.589 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:25.592 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:29:45.342 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:06.343 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:06.344 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:06.346 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:06.347 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:06.348 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:06.350 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:06.608 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:06.816 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:06.823 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:06.824 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:07.825 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:16.647 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:28.936 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:29.855 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:34.441 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:37.456 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:37.458 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:37.459 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:37.460 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:37.461 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:37.462 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:37.936 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:30:38.457 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:31:17.897 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:31:18.500 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:32:00.602 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:32:19.571 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:32:19.584 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:32:20.509 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:32:20.524 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:32:35.606 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:32:40.207 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:33:13.630 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:34:14.247 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.103 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.115 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.115 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.209 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.211 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.238 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.369 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.413 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.414 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.422 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.428 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.512 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.624 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.626 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.821 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:24.823 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:25.271 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:25.978 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.005 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.081 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.092 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.094 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.095 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.097 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.098 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.111 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.112 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.130 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.131 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.132 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.134 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.136 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.138 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.140 [main] ERROR handlers.ConnectHandler.onRead(ConnectHandler.java:85) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.ConnectHandler.onRead(ConnectHandler.java:30)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.145 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.146 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.157 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.163 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.197 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.286 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.287 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.288 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:26.296 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:35.499 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:35.991 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:36.052 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:36.078 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:42.007 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:51.165 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:56.568 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:57.507 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:45:59.702 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:22.729 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:22.739 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:24.267 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:24.291 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:24.291 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:24.467 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:24.469 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:24.479 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:25.325 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:25.937 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:25.939 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.158 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.161 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.178 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.184 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.188 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.190 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.191 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.194 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.201 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.203 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.208 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.219 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.249 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.339 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.339 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.344 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:26.359 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:28.125 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:28.158 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:28.172 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:29.158 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:29.375 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:29.536 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:29.688 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:29.812 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:30.081 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:30.226 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:30.368 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:30.370 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:30.695 [main] ERROR handlers.ConnectHandler.onConnect(ConnectHandler.java:112) - java.net.ConnectException: Connection refused: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:669)
+	at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:944)
+	at handlers.ConnectHandler.onConnect(ConnectHandler.java:107)
+	at ProxyServer.start(ProxyServer.java:77)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:30.799 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:30.944 [main] ERROR handlers.ConnectHandler.onConnect(ConnectHandler.java:112) - java.net.ConnectException: Connection refused: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:669)
+	at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:944)
+	at handlers.ConnectHandler.onConnect(ConnectHandler.java:107)
+	at ProxyServer.start(ProxyServer.java:77)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:30.960 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:31.092 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:31.205 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:417)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:32.333 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:36.014 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:39.258 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:39.780 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:40.397 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:40.469 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:41.246 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:41.294 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:51.965 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:51.966 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:51.990 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:51.991 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:51.993 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:51.994 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:46:52.032 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:47:03.294 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:47:30.527 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:47:30.835 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:47:31.129 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:47:51.224 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:47:51.692 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:47:52.271 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:47:52.291 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:34)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:48:02.342 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:48:02.591 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:48:02.712 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
+2023-01-19 16:48:04.301 [main] ERROR handlers.TransmitHandler.onRead(TransmitHandler.java:55) - java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195)
+	at java.base/sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:1111)
+	at handlers.TransmitHandler.onRead(TransmitHandler.java:42)
+	at ProxyServer.start(ProxyServer.java:63)
+	at Main.main(Main.java:13)
+
